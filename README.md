@@ -1,1 +1,3 @@
 # film_project
+
+This was part of a project that explored the use of collapsible corporation in the form of production companies in the film making business. The collapsible corporation would be used to take advantage of a tax loop that allowed investors to see profit returns in a preferential manner. The data comes from the American Film Institute’s AFI Catalog that includes all theatrically American films released from 1893 to 1993. To access the database, we had to use a JupyterLab Python environment within ProQuest. The database stored the data as XML files which required the Python package BeautifulSoup to read XML tag information to convert each film page into a row in a Pandas data frame.
